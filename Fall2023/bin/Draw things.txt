@@ -1,0 +1,9 @@
+Draw things
+
+javac -cp .;stddraw.jar Snake.java
+java -cp .;stddraw.jar Snake 
+
+
+javac -cp .;stdaudio.jar GuitarString.java
+javac -cp .;stdaudio.jar GuitarHero.java
+java -cp .;stdaudio.jar GuitarHero <  MyInput.txt
